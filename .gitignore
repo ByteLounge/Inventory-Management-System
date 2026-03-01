@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+dist/
+dist-ssr/
+build/
+*.local
+
+# Python/Flask
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Docker Database Volume (if any local mappings exist)
+postgres_data/
+
+# OS/Editor
+.DS_Store
+.vscode/
+Thumbs.db
